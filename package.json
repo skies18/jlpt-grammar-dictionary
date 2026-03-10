@@ -1,0 +1,27 @@
+{
+  "name": "jlpt-grammar-dictionary",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "import:japbase": "node scripts/import_japbase.js",
+    "copy-dict": "node -e \"require('fs').cpSync('node_modules/kuromoji/dict', 'public/kuromoji-dict', {recursive:true})\""
+  },
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12",
+    "kuromoji": "^0.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.14.1"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.28",
+    "@types/react-dom": "^18.2.11",
+    "@vitejs/plugin-react": "^4.2.1",
+    "typescript": "^5.1.6",
+    "vite": "^5.0.0"
+  }
+}

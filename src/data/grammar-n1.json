@@ -1,0 +1,1136 @@
+[
+  {
+    "id": "n1-ikan-ni-yotte",
+    "name": "〜いかんによって",
+    "romaji": "ikan ni yotte",
+    "level": "N1",
+    "description": "いかんによって (ikan ni yotte) is a formal expression meaning 'depending on' or 'according to the nature/outcome of.' It attaches directly to a noun (often with の inserted: 結果のいかんによって) and signals that the result stated in the main clause is contingent on the noun it modifies. The shorter variant いかんで carries the same meaning and is equally formal. Both forms are virtually exclusive to written Japanese — official documents, business correspondence, and formal speeches.\n\nThe word いかん itself derives from classical Japanese 如何 (いかん), meaning 'how' or 'what kind.' Modern equivalents include 〜次第で and 〜によって, but いかんによって carries a noticeably stiffer, more official register. It frequently appears in conditional announcements: 試験の結果いかんで、採用が決まります (Whether you are hired will be determined by your exam results).",
+    "usage": "Noun + いかんによって / いかんで",
+    "notes": "The everyday equivalent is 〜によって or 〜次第で. Use いかんによって only in formal written or ceremonial spoken contexts — it sounds unnatural in casual conversation. A common mistake is inserting a particle between the noun and いかん when の is not needed: ✗ 結果がいかんで → ✓ 結果いかんで (or 結果のいかんで).",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%84%E3%81%8B%E3%82%93"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "交渉の結果いかんによって、契約を更新するかどうかが決まります。",
+        "romaji": "Kōshō no kekka ikan ni yotte, keiyaku wo kōshin suru ka dō ka ga kimarimasu.",
+        "english": "Whether or not we renew the contract will depend on the outcome of the negotiations."
+      },
+      {
+        "japanese": "今後の対応いかんで、会社の評判が大きく左右される。",
+        "romaji": "Kongo no taiō ikan de, kaisha no hyōban ga ōkiku sayū sareru.",
+        "english": "The company's reputation will be greatly affected depending on how we respond going forward."
+      }
+    ]
+  },
+  {
+    "id": "n1-ikan-ni-kakawarazu",
+    "name": "〜いかんにかかわらず",
+    "romaji": "ikan ni kakawarazu",
+    "level": "N1",
+    "description": "いかんにかかわらず (ikan ni kakawarazu) means 'regardless of' or 'irrespective of' — the outcome or rule stated in the main clause applies no matter what the noun describes. It attaches to a noun (often with の: 理由のいかんにかかわらず) and asserts that variation in that noun makes no difference to the conclusion. This construction is highly formal and is found primarily in official notices, legal documents, and formal announcements.\n\nThe pattern combines いかん (the classical 'how/what') with にかかわらず ('without relation to'), making it a doubly formal reinforcement of unconditional applicability. A close synonym is 〜を問わず, which is slightly less stiff and more widely used even in semi-formal contexts. いかんにかかわらず implies a higher institutional or authoritative register.",
+    "usage": "Noun + いかんにかかわらず",
+    "notes": "Compare with 〜を問わず (less stiff, broader use) and 〜にかかわらず alone (attaches more broadly to adjectives and verbs). いかんにかかわらず is strictly a noun-following construction and is most at home in formal written rules or legal language. Do not use it in casual spoken Japanese.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%84%E3%81%8B%E3%82%93%E3%81%AB%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%89%E3%81%9A"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "理由のいかんにかかわらず、遅刻は認められません。",
+        "romaji": "Riyū no ikan ni kakawarazu, chikoku wa みとめられません。",
+        "english": "Tardiness will not be permitted regardless of the reason."
+      },
+      {
+        "japanese": "結果のいかんにかかわらず、全力を尽くすことが大切だ。",
+        "romaji": "Kekka no ikan ni kakawarazu, zenryoku wo tsukusu koto ga taisetsu da.",
+        "english": "Regardless of the outcome, it is important to give one's full effort."
+      }
+    ]
+  },
+  {
+    "id": "n1-osore-ga-aru",
+    "name": "〜おそれがある",
+    "romaji": "osore ga aru",
+    "level": "N1",
+    "description": "おそれがある (osore ga aru) expresses that there is a risk, danger, or fear that something negative may occur. It is used when the speaker has reason to believe an undesirable event is possible — not certain, but genuinely concerning. The word おそれ (恐れ) literally means 'fear' or 'apprehension,' and the construction communicates a cautionary warning rather than a mere guess. It attaches to the dictionary form of a verb or to a noun with の (noun + のおそれがある).\n\nThis pattern is strongly associated with formal registers: government advisories, news broadcasts, medical warnings, and legal documents regularly use it. You will see it in weather bulletins (大雨により洪水が起きるおそれがある) and safety announcements. In written academic or bureaucratic Japanese it replaces the more colloquial かもしれない, adding an official tone of concern and responsibility.",
+    "usage": "Verb (dict.) / Noun + の + おそれがある",
+    "notes": "The everyday equivalent is かもしれない, but おそれがある is much more formal and implies a specifically negative, risk-based concern — it would sound strange applied to positive possibilities. Note that おそれ is written in hiragana in this grammar pattern (not 恐れ), though both spellings exist. Compare with 〜危険がある, which is similar but less common in official contexts.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%8A%E3%81%9D%E3%82%8C%E3%81%8C%E3%81%82%E3%82%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この地域では、大雨により土砂崩れが起きるおそれがある。",
+        "romaji": "Kono chiiki de wa, ōame ni yori doshakuzure ga okiru osore ga aru.",
+        "english": "In this area, there is a risk of landslides occurring due to heavy rain."
+      },
+      {
+        "japanese": "個人情報が漏洩するおそれがあるため、早急な対策が必要です。",
+        "romaji": "Kojin jōhō ga rōei suru osore ga aru tame, sōkyū na taisaku ga hitsuyō desu.",
+        "english": "Urgent countermeasures are necessary as there is a risk of personal information being leaked."
+      }
+    ]
+  },
+  {
+    "id": "n1-katagata",
+    "name": "〜かたがた",
+    "romaji": "katagata",
+    "level": "N1",
+    "description": "かたがた (katagata) is a highly formal expression meaning 'while also doing' or 'for the dual purpose of.' It indicates that one action serves two purposes simultaneously — for instance, visiting someone both to greet them and to express thanks. It attaches directly to a noun (typically a verbal noun or a noun describing a formal action: 挨拶かたがた, 報告かたがた, お礼かたがた) and belongs exclusively to polite, written, or ceremonial speech.\n\nThis pattern is especially common in traditional business and epistolary Japanese, often appearing in formal visit announcements, letters, and ceremonial expressions. The overall nuance is that the speaker is being gracious and efficient — taking the opportunity of one formal occasion to accomplish another. It cannot attach to plain verbs or adjectives and is never used in casual conversation.",
+    "usage": "Noun + かたがた",
+    "notes": "The more casual equivalent is 〜ながら or 〜ついでに, but these do not carry the same elevated formality. かたがた is restricted to formal nouns (挨拶, お礼, 報告, 見舞い, etc.) — you cannot say 買い物かたがた in a formal sense. This pattern has a classical flavour and is most frequently encountered in written letters and formulaic business Japanese.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%9F%E3%81%8C%E3%81%9F"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ご挨拶かたがた、先日のお礼を申し上げたく参りました。",
+        "romaji": "Go-aisatsu katagata, senjitsu no o-rei wo mōshiagetaku mairimashita.",
+        "english": "I have come to offer my greetings and also to express my thanks for the other day."
+      },
+      {
+        "japanese": "散歩かたがた、近所の郵便局まで手紙を出しに行った。",
+        "romaji": "Sanpo katagata, kinjo no yūbinkyoku made tegami wo dashi ni itta.",
+        "english": "I went for a walk and, while I was at it, dropped off a letter at the nearby post office."
+      }
+    ]
+  },
+  {
+    "id": "n1-katawara",
+    "name": "〜かたわら",
+    "romaji": "katawara",
+    "level": "N1",
+    "description": "かたわら (katawara) means 'while also doing' or 'in addition to one's main activity' — it describes a secondary, ongoing activity that runs in parallel with a primary occupation. It attaches to the dictionary form of a verb (Verb dict. + かたわら) or to a noun with の (Noun + の + かたわら) and signals that both activities are sustained, not momentary. The emphasis is on the secondary activity being a regular, deliberate endeavour rather than a casual side task.\n\nThis pattern is formal and literary. It is commonly used when describing a person's life or career: 研究をするかたわら小説も書いている (While conducting research, he also writes novels). Unlike ながら, which often describes simultaneous physical actions, かたわら typically refers to longer-term parallel pursuits. It is well-suited to biographies, profiles, and formal written descriptions of someone's activities.",
+    "usage": "Verb (dict.) / Noun + の + かたわら",
+    "notes": "Compare with 〜ながら, which describes simultaneous momentary actions (e.g., 音楽を聴きながら勉強する). かたわら instead describes sustained parallel endeavours — a second career, a hobby practised over years. A common mistake is using it with short, one-time actions; it sounds odd unless both activities are ongoing.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%8B%E3%81%9F%E3%82%8F%E3%82%89"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼女は大学で研究をするかたわら、週末には絵画教室を開いている。",
+        "romaji": "Kanojo wa daigaku de kenkyū wo suru katawara, shūmatsu ni wa kaiga kyōshitsu wo hiraite iru.",
+        "english": "While conducting research at university, she also runs a painting class on weekends."
+      },
+      {
+        "japanese": "父は会社員のかたわら、地元のボランティア活動にも積極的に参加している。",
+        "romaji": "Chichi wa kaishain no katawara, jimoto no borantia katsudō ni mo sekkyokuteki ni sanka shite iru.",
+        "english": "My father, while working as a company employee, also actively participates in local volunteer activities."
+      }
+    ]
+  },
+  {
+    "id": "n1-ga-saigo",
+    "name": "〜が最後",
+    "romaji": "ga saigo",
+    "level": "N1",
+    "description": "が最後 (ga saigo) attaches to the た-form of a verb and expresses that once an action is carried out, an irreversible — usually negative — consequence inevitably follows. The literal sense is 'the moment X happens, that is the end,' conveying that there is no going back. The result is typically something undesirable or unstoppable: 飲んだが最後, 止まらなくなる (once they start drinking, they can't stop).\n\nThis is a formal, literary pattern rarely heard in casual conversation. It shares conceptual territory with 〜たとたん, but が最後 places much greater emphasis on the irreversibility and finality of the consequence. The second clause almost always describes a negative, out-of-control, or definitive outcome. The pattern can also appear as たら最後 in slightly less formal contexts, with the same meaning.",
+    "usage": "Verb (ta) + が最後",
+    "notes": "Compare with 〜たとたん(に), which also describes immediacy but does not carry the same sense of irrevocable doom. が最後 strongly implies the speaker views the consequence as unfortunate or inescapable. The variant たら最後 is slightly more conversational. The second clause should not be a volitional or hopeful statement — it must describe an inevitable, typically negative result.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%8C%E6%9C%80%E5%BE%8C"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あの人はお酒を飲んだが最後、止まらなくなってしまう。",
+        "romaji": "Ano hito wa o-sake wo nonda ga saigo, tomaranaku natte shimau.",
+        "english": "Once that person starts drinking, they can't stop."
+      },
+      {
+        "japanese": "彼に秘密を話したが最後、すぐに皆に広まってしまうだろう。",
+        "romaji": "Kare ni himitsu wo hanashita ga saigo, sugu ni minna ni hiromatte shimau darō.",
+        "english": "Once you tell him a secret, it will surely spread to everyone right away."
+      }
+    ]
+  },
+  {
+    "id": "n1-kirai-ga-aru",
+    "name": "〜きらいがある",
+    "romaji": "kirai ga aru",
+    "level": "N1",
+    "description": "きらいがある (kirai ga aru) means 'to have a tendency to' or 'to be inclined to' — it describes a habitual, usually negative or problematic inclination that the subject exhibits. The noun きらい (嫌い) in this construction does not mean 'dislike' as in the common word; rather, it is a classical noun meaning 'tendency' or 'trait,' and the pattern as a whole functions like 〜傾向がある but with a more critical or disapproving nuance.\n\nThis pattern attaches to the dictionary form of a verb or to a noun with の: 大げさに言うきらいがある (tends to exaggerate). It is formal and written in register — you are unlikely to hear it in everyday conversation. It is typically used when commenting on a person's or an organization's characteristic flaw, often from a slightly detached, analytical perspective.",
+    "usage": "Verb (dict.) + きらいがある",
+    "notes": "Do not confuse with 嫌い (kirai, 'dislike'). In きらいがある the word is a classical noun for 'tendency.' The nearest plain equivalent is 〜傾向がある, which is neutral; きらいがある adds a critical or mildly disapproving nuance. It is formal and better suited to writing or analytical speech than to casual conversation.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%8D%E3%82%89%E3%81%84%E3%81%8C%E3%81%82%E3%82%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は物事を大げさに言うきらいがある。",
+        "romaji": "Kare wa monogoto wo ōgesa ni iu kirai ga aru.",
+        "english": "He has a tendency to exaggerate things."
+      },
+      {
+        "japanese": "この組織は変化を嫌い、前例に頼りすぎるきらいがある。",
+        "romaji": "Kono soshiki wa henka wo kirai, zenrei ni tayori sugiru kirai ga aru.",
+        "english": "This organization tends to dislike change and rely too heavily on precedent."
+      }
+    ]
+  },
+  {
+    "id": "n1-kiwamari-nai",
+    "name": "〜きわまりない",
+    "romaji": "kiwamari nai",
+    "level": "N1",
+    "description": "きわまりない (kiwamari nai) means 'in the extreme' or 'extremely' — it expresses that a quality has reached its absolute peak. The base word きわまる means 'to reach an extreme or limit,' so きわまりない literally conveys 'there is no limit to how [adjective] this is.' It attaches to na-adjective stems or nouns directly (失礼きわまりない, 危険きわまりない) without any connecting particle, which is unusual and marks its formal, literary character.\n\nThe nuance is almost always negative or critical — it is used when something is outrageously rude, dangerous, irresponsible, or otherwise objectionable. A related form is 〜きわまる (e.g., 退屈きわまる話), which is slightly less common. Both are formal and written in register, appearing in editorial commentary, literary prose, and formal speech.",
+    "usage": "Noun / Adj stem + きわまりない",
+    "notes": "The related form 〜きわまる is used similarly (e.g., 迷惑きわまる). Both are formal and carry a strongly negative evaluative tone. Compare with 〜極まりない (written with 極), which is an alternative spelling of the same pattern. The everyday alternative would be something like 本当に〜だ or 〜すぎる, which lack the formal emphatic force.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%8D%E3%82%8F%E3%81%BE%E3%82%8A%E3%81%AA%E3%81%84"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "会議中にスマホを操作するのは、失礼きわまりない行為だ。",
+        "romaji": "Kaigi-chū ni sumaho wo sōsa suru no wa, shitsurei kiwamari nai kōi da.",
+        "english": "Operating a smartphone during a meeting is an extremely rude act."
+      },
+      {
+        "japanese": "あのような無責任きわまりない発言が、公の場でなされたことに驚いた。",
+        "romaji": "Ano yō na musekinin kiwamari nai hatsugen ga, kō no ba de nasareta koto ni odorōita.",
+        "english": "I was shocked that such an extremely irresponsible remark was made in a public setting."
+      }
+    ]
+  },
+  {
+    "id": "n1-koso-sure",
+    "name": "〜こそすれ",
+    "romaji": "koso sure",
+    "level": "N1",
+    "description": "こそすれ (koso sure) is a formal, literary construction that expresses emphatic contrast: 'X may be the case, but certainly not Y.' The first clause describes something that could happen or that the speaker acknowledges (and emphasises with こそ), while the second clause — always negative — rules out a contrary outcome definitively. The pattern derives from the classical concessive use of こそ followed by the provisional form すれ (classical conditional of する).\n\nIt attaches to the dictionary or stem form of a verb: 増えこそすれ、減ることはない (it may increase, but it certainly won't decrease). This structure is used in formal writing and speeches to make a strong logical assertion. It is never found in casual conversation and carries an unmistakably literary flavour. The second clause must be negative and should contradict or oppose the first.",
+    "usage": "Verb + こそすれ、～ない",
+    "notes": "This is one of the more classically derived N1 patterns. The こそ emphatic particle combined with the classical conditional すれ comes from classical Japanese grammar. The everyday equivalent would be simply 〜ことはあっても〜ことはない or a plain は〜ない denial, both of which lack the rhetorical force. The second clause must always be a negative statement.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%9D%E3%81%99%E3%82%8C"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この政策は状況を改善こそすれ、悪化させることはない。",
+        "romaji": "Kono seisaku wa jōkyō wo kaizen koso sure, akka saseru koto wa nai.",
+        "english": "This policy may well improve the situation, but it certainly won't make it worse."
+      },
+      {
+        "japanese": "長年の友人として、君を批判こそすれ、見捨てるつもりはない。",
+        "romaji": "Naganen no yūjin to shite, kimi wo hihan koso sure, misuteru tsumori wa nai.",
+        "english": "As a longtime friend, I may criticize you, but I have no intention of abandoning you."
+      }
+    ]
+  },
+  {
+    "id": "n1-koto-ka",
+    "name": "〜ことか",
+    "romaji": "koto ka",
+    "level": "N1",
+    "description": "ことか (koto ka) is an exclamatory pattern used to express strong emotion — wonder, longing, gratitude, or suffering — through a rhetorical question. It follows a clause containing an interrogative word such as どれほど, どれだけ, なんと, or いくら, and asks 'how much / how many times has this been the case?' without expecting an answer. The effect is a deeply felt, often wistful exclamation: どれほど待っていたことか (how long I have been waiting!).\n\nThis pattern appears in formal written Japanese as well as in literary or emotional spoken contexts. It is particularly common in retrospective statements — looking back on how hard something was or how much one has longed for something. The plain form of the verb or adjective precedes ことか, and the whole construction often ends the sentence or paragraph, creating a lingering emotional effect.",
+    "usage": "Interrogative + Verb / Adj + ことか",
+    "notes": "ことか is mainly literary and formal in written Japanese but can appear in heartfelt monologue or narration. Compare with simply adding ね or なあ for a conversational equivalent: どれほど待ったことか vs どれほど待ったんだろうなあ. The interrogative word (どれほど, いくら, etc.) is obligatory — ことか cannot stand alone without it.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あなたに会いたいと、どれほど思っていたことか。",
+        "romaji": "Anata ni aitai to, dore hodo omotteita koto ka.",
+        "english": "How much I had been longing to see you."
+      },
+      {
+        "japanese": "これまでどれだけ苦労してきたことか、言葉では言い表せない。",
+        "romaji": "Kore made dore dake kurō shite kita koto ka, kotoba de wa iiarawasenai.",
+        "english": "There are no words to express how much hardship I have endured until now."
+      }
+    ]
+  },
+  {
+    "id": "n1-koto-naku",
+    "name": "〜ことなく",
+    "romaji": "koto naku",
+    "level": "N1",
+    "description": "ことなく (koto naku) means 'without doing' — it expresses that an action described by the preceding verb never occurred throughout the period or activity described in the main clause. It attaches to the dictionary form of a verb and has a formal, literary character that distinguishes it from the more casual 〜ないで or 〜ずに. The nuance often involves persistence or continuity: an entire period passed without the action taking place even once.\n\nThis pattern is frequently used to describe admirable perseverance or consistent behaviour: 休むことなく働いた (worked without ever resting). It can also describe an unfortunate ongoing absence: 会うことなく彼は去った (he left without us ever meeting). The pattern is well-suited to formal narratives, literary prose, and respectful descriptions of achievement.",
+    "usage": "Verb (dict.) + ことなく",
+    "notes": "The casual equivalents are 〜ないで or 〜ずに (e.g., 休まないで / 休まずに). ことなく adds a more literary, sustained quality — it implies the absence of an action over a longer stretch of time rather than in a single instance. It is commonly found in written narratives but rarely in casual speech.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AA%E3%81%8F"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は一度も諦めることなく、長年の夢を実現させた。",
+        "romaji": "Kare wa ichido mo akirameru koto naku, naganen no yume wo jitsugen saseta.",
+        "english": "Without ever giving up, he realized his long-held dream."
+      },
+      {
+        "japanese": "その老学者は休むことなく研究を続け、晩年に大きな発見をした。",
+        "romaji": "Sono rō gakusha wa yasumu koto naku kenkyū wo tsuzuke, bannen ni ōkina hakken wo shita.",
+        "english": "The elderly scholar continued his research without rest and made a major discovery in his later years."
+      }
+    ]
+  },
+  {
+    "id": "n1-koto-nashi-ni",
+    "name": "〜ことなしに",
+    "romaji": "koto nashi ni",
+    "level": "N1",
+    "description": "ことなしに (koto nashi ni) means 'without doing' — specifically that the action described is a necessary prerequisite that is absent, making the outcome of the main clause impossible or logically excluded. It attaches to the dictionary form of a verb and is more formal than 〜ないで or 〜ずに. The key semantic nuance is conditionality: ことなしに does not merely say that something was not done; it asserts that without that action, the result cannot be achieved.\n\nThis pattern often appears in logical or argumentative contexts: 練習することなしに上達はない (without practising, there is no improvement). It is found in formal essays, academic writing, and editorial commentary. Compare with ことなく, which describes a continuous absence of action, whereas ことなしに stresses the logical necessity of the missing action.",
+    "usage": "Verb (dict.) + ことなしに",
+    "notes": "ことなしに emphasises that the preceding verb is a logical prerequisite — 'X cannot happen without Y.' Compare with ことなく, which simply describes that something never happened. In ことなしに the second clause typically expresses impossibility (〜できない, 〜ない). The colloquial equivalents are 〜ないで or 〜なければ, which are less emphatic about the logical dependence.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%93%E3%81%A8%E3%81%AA%E3%81%97%E3%81%AB"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "基礎を固めることなしに、応用問題は解けない。",
+        "romaji": "Kiso wo katameru koto nashi ni, ōyō mondai wa tokenai.",
+        "english": "Without solidifying the fundamentals, applied problems cannot be solved."
+      },
+      {
+        "japanese": "双方が歩み寄ることなしに、真の和解は成立しない。",
+        "romaji": "Sōhō ga ayumiyoru koto nashi ni, shin no wakai wa seiritsu shinai.",
+        "english": "Without both sides making concessions, true reconciliation cannot be achieved."
+      }
+    ]
+  },
+  {
+    "id": "n1-zu-shite",
+    "name": "〜ずして",
+    "romaji": "zu shite",
+    "level": "N1",
+    "description": "ずして (zu shite) is a classical negative gerund meaning 'without doing.' It attaches to the nai-stem of a verb (the same stem used for ない), with the special form of する → せずして (not しずして). The construction derives from the classical negative auxiliary ず plus the classical gerundive particle して, and it carries a distinctly literary and archaic flavour that sets it apart from the modern equivalents 〜ないで or 〜ずに.\n\nIn contemporary Japanese, ずして is encountered primarily in formal literary writing, classical-style proverbs, and highly formal speeches or essays. Its archaic character makes it sound elevated and solemn: 努力せずして成功なし (no success without effort). It is occasionally used in set phrases that have entered the standard written lexicon. Because of its classical origin, ずして sounds stilted if used in ordinary conversation.",
+    "usage": "Verb (nai stem) + ずして",
+    "notes": "ずして is the classical/literary version of 〜ないで or 〜ずに. The irregular form する → せずして (not しずして) is important to remember and is a common error point. This pattern is most natural in set expressions or formal prose; in modern spoken Japanese 〜ずに or 〜ないで is always preferred.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%9A%E3%81%97%E3%81%A6"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "努力せずして、成功を望むのは虫のいい話だ。",
+        "romaji": "Doryoku sezu shite, seikō wo nozomu no wa mushi no ii hanashi da.",
+        "english": "It is wishful thinking to hope for success without making any effort."
+      },
+      {
+        "japanese": "命を懸けずして、この難局を乗り越えることはできなかっただろう。",
+        "romaji": "Inochi wo kakezu shite, kono nankyoku wo norikoeru koto wa dekinakatta darō.",
+        "english": "Without risking their lives, they likely could not have overcome this crisis."
+      }
+    ]
+  },
+  {
+    "id": "n1-sura",
+    "name": "〜すら",
+    "romaji": "sura",
+    "level": "N1",
+    "description": "すら (sura) is an emphatic particle meaning 'even,' used to highlight an extreme or unexpected case. It is stronger and more literary than さえ, which has the same basic meaning but is more common in everyday speech. By saying 'even X (which is extreme/surprising), the speaker implies all other, more expected cases are also true: 専門家すら解けない (even experts cannot solve it — so of course ordinary people cannot).\n\nすら attaches to nouns or to the conjunctive form of verbs (verb stem + すら). In negative contexts it emphasises that not even the stated extreme case is possible; in positive contexts it signals that even an extreme case applies. It is found in formal writing, classical-influenced literature, and formal speech. In casual conversation, さえ is the preferred equivalent. すら cannot be used in positive sentences of simple capability as freely as さえ.",
+    "usage": "Noun + すら / Verb stem + すら",
+    "notes": "The everyday equivalent is さえ (e.g., 専門家さえ解けない). すら is more literary and carries a stronger, more dramatic emphasis. It is most natural in formal or written Japanese and sounds stilted in casual conversation. Do not confuse with さえ〜ば (conditional use of さえ), which has a different function.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%99%E3%82%89"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "その問題は専門家すら答えられなかった。",
+        "romaji": "Sono mondai wa senmonka sura kotaerarenakatta.",
+        "english": "Even experts were unable to answer that question."
+      },
+      {
+        "japanese": "疲れ果てて、立つことすらできなかった。",
+        "romaji": "Tsukare hate te, tatsu koto sura dekinakatta.",
+        "english": "I was so exhausted that I could not even stand up."
+      }
+    ]
+  },
+  {
+    "id": "n1-da-ni",
+    "name": "〜だに",
+    "romaji": "da ni",
+    "level": "N1",
+    "description": "だに (da ni) is a classical particle meaning 'even just' or 'merely.' It attaches to certain verbs of mental activity (想像する, 思う, 考える) in their dictionary form to express that the mere act of imagining or thinking about something is enough to trigger a strong reaction: 想像するだに恐ろしい (just imagining it is terrifying). In this usage it functions like さえ or すら but is far more archaic and literary.\n\nだに has a second, rarer usage attached to nouns meaning 'even,' similar to さえ: 微動だにしない (not even moving a millimetre). Both uses are strictly literary and classical in origin — だに does not appear in modern spoken Japanese and is essentially confined to literature, classical poetry, historical texts, and deliberate stylistic choices in formal writing. Because of its rarity and classicism, encountering it on the JLPT N1 means recognising it as a strong literary intensifier.",
+    "usage": "Verb (dict.) + だに / Noun + だに",
+    "notes": "だに is one of the most classically literary particles at N1. Its two uses are: (1) verb of thought/imagination + だに, meaning 'even just thinking of it'; (2) noun + だに, meaning 'even' (similar to さえ). The second use appears in set phrases like 微動だにしない. In modern Japanese, さえ or すら replace it in all ordinary contexts.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A0%E3%81%AB"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "あの事故を想像するだに、身の毛がよだつ。",
+        "romaji": "Ano jiko wo sōzō suru da ni, mi no ke ga yodatsu.",
+        "english": "Even just imagining that accident makes my skin crawl."
+      },
+      {
+        "japanese": "彼の裏切りを思い出すだに、怒りがこみ上げてくる。",
+        "romaji": "Kare no uragiri wo omoidasu da ni, ikari ga komiagete kuru.",
+        "english": "Even just recalling his betrayal fills me with rising anger."
+      }
+    ]
+  },
+  {
+    "id": "n1-ta-tokoro-de",
+    "name": "〜たところで",
+    "romaji": "ta tokoro de",
+    "level": "N1",
+    "description": "たところで (ta tokoro de) expresses futility — 'even if you do X, it won't lead to the expected result.' It attaches to the た-form of a verb and is followed by a negative or undesirable outcome, often with 〜ない, 〜だろう, or similar expressions. The speaker is essentially saying that performing the action is pointless because the hoped-for result will not materialise: 今さら謝ったところで、遅すぎる (even if you apologise now, it's too late).\n\nThis construction differs from 〜ても (even if / even though) in that たところで carries a much stronger undertone of resignation and futility. The action in the first clause is often already completed or regrettably overdue. It is used in both formal and semi-formal registers — in written Japanese as well as in thoughtful or emphatic spoken commentary. It is particularly effective when delivering a blunt or sobering assessment.",
+    "usage": "Verb (ta) + ところで",
+    "notes": "The primary distinction from 〜ても is nuance: 〜ても simply states 'even if,' while たところで emphasises 'it would be pointless/useless even if.' たところで almost always appears with a negative or pessimistic second clause. It is more emphatic than 〜てもしかたない and more directly expresses the speaker's judgment that the action is futile.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%9F%E3%81%A8%E3%81%93%E3%82%8D%E3%81%A7"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今さら謝ったところで、失った信頼は戻らない。",
+        "romaji": "Imasara ayamatta tokoro de, ushinatta shinrai wa modoranaī.",
+        "english": "Even if you apologize now, the lost trust will not return."
+      },
+      {
+        "japanese": "急いだところで、最終便にはもう間に合わないだろう。",
+        "romaji": "Isoida tokoro de, saishūbin ni wa mō maniawaanai darō.",
+        "english": "Even if you hurry, you probably won't make the last flight anymore."
+      }
+    ]
+  },
+  {
+    "id": "n1-de-are-de-are",
+    "name": "〜であれ〜であれ",
+    "romaji": "de are~de are",
+    "level": "N1",
+    "description": "であれ〜であれ (de are ~ de are) is a formal pattern meaning 'whether...or' — it presents two contrasting examples or categories and asserts that the conclusion of the main clause applies equally to both. It functions like 〜でも〜でも or 〜にしても〜にしても, but with a more elevated, literary register. It attaches to nouns directly (Noun₁ + であれ + Noun₂ + であれ) and is closely related to the classical copula imperative form であれ.\n\nThis pattern appears in formal speeches, legal language, philosophical writing, and literary prose. The two nouns typically represent opposite or complementary categories: 男性であれ女性であれ (whether male or female), 賛成であれ反対であれ (whether in favour or against). The main clause states a universal rule or principle that transcends both examples. A single であれ alone (〜であれ) can also function as a concessive ('even if it is'), but the doubled form is specifically for this 'whether...or' meaning.",
+    "usage": "Noun₁ + であれ + Noun₂ + であれ",
+    "notes": "The conversational equivalent is 〜でも〜でも (e.g., 男性でも女性でも). であれ〜であれ raises the formality and rhetorical register significantly. It is often found in formal rules, philosophical claims, or speeches where the speaker wants to sound authoritative. Do not use it in casual conversation.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A7%E3%81%82%E3%82%8C"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "男性であれ女性であれ、この規則は全員に適用されます。",
+        "romaji": "Dansei de are josei de are, kono kisoku wa zen'in ni tekiyō saremasu.",
+        "english": "Whether male or female, this rule applies to everyone."
+      },
+      {
+        "japanese": "賛成であれ反対であれ、まず意見を述べてください。",
+        "romaji": "Sansei de are hantai de are, mazu iken wo nobete kudasai.",
+        "english": "Whether you agree or disagree, please state your opinion first."
+      }
+    ]
+  },
+  {
+    "id": "n1-to-atte",
+    "name": "〜とあって",
+    "romaji": "to atte",
+    "level": "N1",
+    "description": "とあって (to atte) means 'given that' or 'because of the special circumstance that' — it introduces a notable or unusual situation that logically explains or justifies the remarkable result described in the main clause. The nuance is that the situation is out of the ordinary (a special event, a rare occasion, an exceptional circumstance), and the speaker is pointing to that specialness as the reason for a somewhat surprising outcome.\n\nIt attaches to nouns or plain-form clauses (Noun + とあって, plain clause + とあって) and is formal in register. It appears in news reporting, descriptive writing, and formal commentary. For example: 三連休とあって、観光地は賑わっていた (Given that it was a three-day weekend, tourist spots were busy). The pattern cannot be used for everyday, unremarkable reasons — the situation must feel noteworthy to the speaker.",
+    "usage": "Noun / Clause + とあって",
+    "notes": "とあって differs from 〜ので or 〜から in that it emphasises the extraordinariness of the circumstance, not just a causal link. The preceding noun or clause must describe something special or exceptional, not an ordinary condition. The main clause result is typically described with an air of 'naturally' or 'of course, given that situation.'",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%82%E3%81%A3%E3%81%A6"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "三連休とあって、観光地はどこも大勢の人で賑わっていた。",
+        "romaji": "San-renkyū to atte, kankōchi wa doko mo ōzei no hito de nigiwatte ita.",
+        "english": "Given that it was a three-day weekend, tourist spots everywhere were bustling with large crowds."
+      },
+      {
+        "japanese": "人気アーティストの初来日とあって、会場は早くからファンが集まり始めた。",
+        "romaji": "Ninki āchisuto no hatsu rainichi to atte, kaijō wa hayaku kara fan ga atsumari hajimeta.",
+        "english": "Given that it was the popular artist's first visit to Japan, fans began gathering at the venue early."
+      }
+    ]
+  },
+  {
+    "id": "n1-to-areba",
+    "name": "〜とあれば",
+    "romaji": "to areba",
+    "level": "N1",
+    "description": "とあれば (to areba) means 'if that is the case' or 'if it is for the sake of' — it introduces a special condition that the speaker accepts as sufficient motivation or justification for going to great lengths. The key nuance is determination: given the condition stated, the speaker is willing to do whatever it takes. It often appears with expressions of strong resolve: どんな苦労も厭わない (will not shy away from any hardship).\n\nIt attaches to nouns or plain-form clauses and is formal in register. It differs from plain 〜なら (if) by emphasising that the speaker finds the condition compelling and is consequently prepared to take exceptional action. The condition is not hypothetical in a detached sense — it is something the speaker personally accepts and responds to with resolve. とあれば often appears in formal speeches and emotional literary passages.",
+    "usage": "Clause + とあれば",
+    "notes": "The casual equivalent is 〜なら or 〜のなら, but these lack the nuance of strong motivation and resolve that とあれば carries. とあれば suggests 'given that specific condition, nothing will stop me.' It is typically followed by a positive expression of willingness, effort, or determination, not a mere logical consequence.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%82%E3%82%8C%E3%81%B0"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "子供のためとあれば、どんな苦労も厭わない。",
+        "romaji": "Kodomo no tame to areba, donna kurō mo itowanaī.",
+        "english": "If it is for the sake of my children, I will not shy away from any hardship."
+      },
+      {
+        "japanese": "社長の命令とあれば、従わざるを得ない。",
+        "romaji": "Shachō no meirei to areba, shitagawazaru wo enai.",
+        "english": "If it is an order from the company president, we have no choice but to comply."
+      }
+    ]
+  },
+  {
+    "id": "n1-to-iedomo",
+    "name": "〜といえども",
+    "romaji": "to iedomo",
+    "level": "N1",
+    "description": "といえども (to iedomo) means 'even though' or 'although' and is used to make a formal concession — acknowledging that someone or something has a high status, exceptional nature, or strong position, while still asserting that a rule, limitation, or principle applies to them regardless. It derives from the classical verb form いえども (the concessive form of いう, 'to say'), giving it a distinctly literary and authoritative register.\n\nIt attaches to nouns or plain-form verbs/adjectives: 大統領といえども法の前に例外はない (even the president is not exempt before the law). This pattern is particularly effective when used to assert universal principles or to challenge the idea that status grants exemption. It appears in formal speeches, legal or philosophical writing, and literary prose. It is noticeably more formal than 〜でも or 〜にしても.",
+    "usage": "Noun / Verb (plain) + といえども",
+    "notes": "The everyday equivalent is 〜でも (e.g., 大統領でも例外はない). といえども adds gravitas and literary formality, making it appropriate for speeches, essays, or formal written arguments. It is derived from classical Japanese and has an unmistakably elevated register. Do not use it in casual conversation.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%81%84%E3%81%88%E3%81%A9%E3%82%82"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "法の下では、大統領といえども例外は認められない。",
+        "romaji": "Hō no moto de wa, daitōryō to iedomo reigai wa mitomerarenai.",
+        "english": "Under the law, exceptions are not permitted even for the president."
+      },
+      {
+        "japanese": "百年の歴史を持つ企業といえども、時代の変化には対応しなければならない。",
+        "romaji": "Hyakunen no rekishi wo motsu kigyō to iedomo, jidai no henka ni wa taiō shinakereba naranai.",
+        "english": "Even a company with a hundred-year history must adapt to the changes of the times."
+      }
+    ]
+  },
+  {
+    "id": "n1-tomo-naku",
+    "name": "〜ともなく",
+    "romaji": "tomo naku",
+    "level": "N1",
+    "description": "ともなく (tomo naku) means 'without really intending to' or 'without consciously doing so' — it describes an action performed in an aimless, unfocused, or absent-minded way. It typically repeats the same verb twice in the pattern Verb + ともなく + same Verb + ていたら, or appears as a single compound: 見るともなく見ていた (was looking without really watching). The overall sense is that the speaker was engaged in the action passively or unconsciously, without any particular purpose.\n\nThis pattern is literary and formal, found in reflective prose and careful written description. It captures a specific quality of consciousness — the in-between state of noticing something without deliberately attending to it. It is commonly used with verbs of perception: 見る (look), 聞く (listen), 読む (read). The effect is contemplative and often precedes an unexpected discovery or realisation.",
+    "usage": "Verb (dict.) + ともなく",
+    "notes": "ともなく can sometimes appear doubled: 見るともなく見ていると (looking without really looking). The pattern specifically implies passive or unconscious engagement, unlike 〜ながら which simply means simultaneously. It is a fairly rare pattern and primarily literary — a casual equivalent would be something like ぼんやり〜していたら.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%82%82%E3%81%AA%E3%81%8F"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "見るともなく窓の外を眺めていたら、懐かしい顔が見えた。",
+        "romaji": "Miru tomo naku mado no soto wo nagamete itara, natsukashii kao ga mieta.",
+        "english": "While gazing out the window without really looking, I caught sight of a familiar face."
+      },
+      {
+        "japanese": "聞くともなく聞いていた隣の会話が、思いがけず役に立った。",
+        "romaji": "Kiku tomo naku kiite ita tonari no kaiwa ga, omoigakezu yaku ni tatta.",
+        "english": "The conversation next to me, which I had been listening to without really paying attention, turned out to be unexpectedly useful."
+      }
+    ]
+  },
+  {
+    "id": "n1-tomo-naru-to",
+    "name": "〜ともなると",
+    "romaji": "tomo naru to",
+    "level": "N1",
+    "description": "ともなると (tomo naru to) — also appearing as ともなれば — means 'when it comes to' or 'once you reach the level of.' It introduces a high-status position, significant scale, or elevated circumstance and implies that at that level, certain expectations, responsibilities, or consequences naturally follow. The speaker is drawing attention to the fact that elevated status brings commensurate weight: 部長ともなると、責任も格段に増す (when you become a department head, responsibility increases dramatically).\n\nIt attaches to nouns (Noun + ともなると / ともなれば) and is formal in register. The pattern is similar to 〜になると or 〜になれば, but adds the nuance that the level reached is genuinely significant — noteworthy enough that new, different expectations apply. It appears in formal commentary, biographical writing, and motivational or evaluative speech.",
+    "usage": "Noun + ともなると / ともなれば",
+    "notes": "Compare with 〜になると (plain 'once you become'), which lacks the implication of elevated significance. ともなると adds a sense that the noun represents a genuinely impressive or meaningful status, which is why it changes what is expected. It is not simply a conditional — it carries an implicit acknowledgment that the level is high.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%A8%E3%82%82%E3%81%AA%E3%82%8B%E3%81%A8"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "部長ともなると、責任の重さも格段に増す。",
+        "romaji": "Buchō tomo naru to, sekinin no omosa mo kakudan ni masu.",
+        "english": "Once you become a department head, the weight of responsibility increases dramatically."
+      },
+      {
+        "japanese": "プロの選手ともなれば、日々のトレーニングに妥協は許されない。",
+        "romaji": "Puro no senshu tomo nareba, hibi no torēningu ni dakyō wa yurusarenai.",
+        "english": "Once you become a professional athlete, there is no room for compromise in daily training."
+      }
+    ]
+  },
+  {
+    "id": "n1-nagara-ni",
+    "name": "〜ながらに",
+    "romaji": "nagara ni",
+    "level": "N1",
+    "description": "ながらに (nagara ni) — often extended to ながらにして — means 'from birth,' 'while still being,' or 'in that very state.' It is used to express that a quality or condition is innate, original, or present from the very start, without any change or acquisition. The most fixed expression is 生まれながらにして (from the moment of birth, by nature), describing a talent or trait that is entirely innate.\n\nIt can also be used to describe an action performed while in a certain state: 涙ながらに訴える (to appeal while in tears / tearfully). In this second usage it is attached to a noun that describes an emotional or physical state. Both usages share the core sense of 'in that state without transition' — the state is inherent or simultaneous and unbroken. The pattern is formal and literary, appearing in written descriptions, biographies, and formal speeches.",
+    "usage": "Noun + ながらに(して)",
+    "notes": "The most important fixed expression is 生まれながらに(して), meaning 'by nature' or 'from birth.' A second common usage is 涙ながらに (tearfully, while in tears). Note that this ながらに is different from the verbal ながら (while doing): ながらに attaches to nouns, not verb stems, and implies an inherent or continuous state rather than a concurrent action.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%81%8C%E3%82%89%E3%81%AB"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼女は生まれながらにして、卓越した音楽的才能を持っていた。",
+        "romaji": "Kanojo wa umare nagara ni shite, takketsu shita ongakuteki sainō wo motte ita.",
+        "english": "She possessed outstanding musical talent from the moment she was born."
+      },
+      {
+        "japanese": "涙ながらに訴える彼の言葉は、法廷の全員の心を揺さぶった。",
+        "romaji": "Namida nagara ni uttaeru kare no kotoba wa, hōtei no zen'in no kokoro wo yusabutta.",
+        "english": "His tearful appeal moved the hearts of everyone in the courtroom."
+      }
+    ]
+  },
+  {
+    "id": "n1-nari-ni",
+    "name": "〜なりに",
+    "romaji": "nari ni",
+    "level": "N1",
+    "description": "なりに (nari ni) means 'in one's own way' or 'to the extent appropriate to one's level' — it acknowledges a limitation (age, skill, status) while affirming that within those limits the effort or quality is genuine and respectable. Attaching to a noun or plain-form verb (Noun/Verb + なりに / なりの + noun), it signals that the standard being applied is relative to the subject's actual capacity rather than an absolute ideal.\n\nFor example: 子供なりに頑張った (the child tried their best in a child's own way) acknowledges that the child's best cannot be compared to an adult's, but within that context it was sincere. This is a warm, respectful nuance. なりに can also appear as なりの + noun when modifying a following noun: 初心者なりの考え方 (a beginner's own way of thinking). The register is neutral to mildly formal and can appear in both speech and writing.",
+    "usage": "Noun / Verb (plain) + なりに",
+    "notes": "なりに is closely related to なりの (which modifies nouns). Compare with 〜らしく (in a manner befitting) or 〜なりの (one's own version of). なりに does not imply criticism or inadequacy — it is an acknowledging and often encouraging expression. Avoid confusing it with 〜なり〜なり (the alternative-listing pattern), which is a separate construction.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%8A%E3%81%AB"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "初心者なりに一生懸命練習した結果、大会で入賞することができた。",
+        "romaji": "Shoshinsha nari ni isshoukenmei renshū shita kekka, taikai de nyūshō suru koto ga dekita.",
+        "english": "As a result of practicing as hard as I could in my own beginner's way, I was able to place in the competition."
+      },
+      {
+        "japanese": "子供なりに深く考えた末に出した答えは、大人も驚かせるものだった。",
+        "romaji": "Kodomo nari ni fukaku kangaeta sue ni dashita kotae wa, otona mo odorokaseru mono datta.",
+        "english": "The answer the child arrived at after thinking deeply in their own way was something that surprised even adults."
+      }
+    ]
+  },
+  {
+    "id": "n1-nari-nari",
+    "name": "〜なり〜なり",
+    "romaji": "nari~nari",
+    "level": "N1",
+    "description": "なり〜なり (nari ~ nari) presents two or more options and indicates that the listener should choose at least one of them — 'either...or,' 'or something like that.' It is typically used as advice or a suggestion, offering alternatives the speaker considers reasonable: 電話するなりメールするなりしてください (please either call or send an email — do one of them). The tone implies mild exasperation or directiveness — the speaker does not care which option is chosen, as long as something is done.\n\nIt attaches to nouns or the dictionary form of verbs and can list two or more options (more than two is possible but unusual). The register is semi-formal to casual and appears in both spoken and written Japanese. Unlike 〜か〜か, which neutrally presents options, なり〜なり often has a slightly impatient or advisory nuance: 'just do one of these things.'",
+    "usage": "Noun/Verb + なり + Noun/Verb + なり",
+    "notes": "Compare with 〜か〜か (neutral 'either...or') and 〜でも〜でも (any one of several options). なり〜なり has a distinctly advisory, slightly impatient tone — the speaker is effectively saying 'just do something.' It should not be used when presenting strictly neutral alternatives without any directive intent. The listed options are typically of the same category.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AA%E3%82%8A"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "困ったことがあれば、相談するなり手紙を書くなりしてください。",
+        "romaji": "Komatta koto ga areba, sōdan suru nari tegami wo kaku nari shite kudasai.",
+        "english": "If you have any troubles, please either consult someone or write a letter."
+      },
+      {
+        "japanese": "疲れたなら、休憩するなり横になるなりして体を休めなさい。",
+        "romaji": "Tsukareta nara, kyūkei suru nari yoko ni naru nari shite karada wo yasume nasai.",
+        "english": "If you are tired, rest your body by either taking a break or lying down."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-atte",
+    "name": "〜にあって",
+    "romaji": "ni atte",
+    "level": "N1",
+    "description": "にあって (ni atte) is a formal expression meaning 'in the situation of,' 'at,' or 'within the context of.' It marks a circumstance or situation as the setting in which something occurs, and typically the situation is challenging, exceptional, or significant. It attaches to nouns (Noun + にあって / にあっても) and is closely related to に (location/situation particle) combined with the て-form of the verb ある, giving it the sense of 'being in that situation.'\n\nThe extended form にあっても means 'even in that situation' — asserting that something holds true even under difficult conditions: 戦時下にあっても希望を失わなかった (even in wartime, they did not lose hope). にあって is a written and formal expression, most at home in literary prose, formal speeches, and expository writing. It elevates the description of the situational context beyond what simple に or において would achieve.",
+    "usage": "Noun + にあって / にあっても",
+    "notes": "にあって is closely related to において (in, at) but tends to emphasise the challenging or significant nature of the situation more strongly. において is more neutral and can be used for ordinary locations or contexts; にあって implies the situation is noteworthy or demanding. にあっても (even in that situation) is particularly useful for expressing resilience.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%82%E3%81%A3%E3%81%A6"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "このような危機的状況にあって、冷静さを保つことが何より重要だ。",
+        "romaji": "Kono yō na kikiteki jōkyō ni atte, reisei-sa wo tamotsu koto ga nani yori jūyō da.",
+        "english": "In a crisis situation like this, maintaining composure is paramount above all else."
+      },
+      {
+        "japanese": "戦時下にあっても、人々は希望を失わなかった。",
+        "romaji": "Senjika ni atte mo, hitobito wa kibō wo ushinawanakatta.",
+        "english": "Even in wartime, the people did not lose hope."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-kakawaru",
+    "name": "〜にかかわる",
+    "romaji": "ni kakawaru",
+    "level": "N1",
+    "description": "にかかわる (ni kakawaru) means 'relating to,' 'concerning,' or 'affecting' — it describes a noun as being directly connected to or having serious implications for the noun it follows. It is used when the stakes are high: 命にかかわる (concerning one's life), 名誉にかかわる (affecting one's honour). The connection is not casual or peripheral — にかかわる implies a matter of real consequence.\n\nIt attaches to nouns (Noun₁ + にかかわる + Noun₂) and functions as a modifying phrase for the second noun. This pattern is more emphatic than に関する (concerning, regarding), which is neutral and descriptive. にかかわる implies that the first noun has a critical stake in or bearing on the second noun. It appears in formal writing, legal language, and serious spoken contexts where the gravity of the matter is being emphasised.",
+    "usage": "Noun + にかかわる + Noun",
+    "notes": "Compare with 〜に関する (concerning, regarding), which is neutral and factual. にかかわる adds the sense that the matter is consequential — often a matter of survival, reputation, or serious concern. Do not use it for trivial matters. A related pattern, にかかわらず (regardless of), has a different meaning and should not be confused.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%8B%E3%81%8B%E3%82%8F%E3%82%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "これは会社の存続にかかわる重大な問題だ。",
+        "romaji": "Kore wa kaisha no sonzoku ni kakawaru jūdai na mondai da.",
+        "english": "This is a serious matter that concerns the very survival of the company."
+      },
+      {
+        "japanese": "患者の命にかかわる決断を、医師は慎重に下した。",
+        "romaji": "Kanja no inochi ni kakawaru ketsudan wo, ishi wa shinchō ni kudashita.",
+        "english": "The doctor carefully made the decision that concerned the patient's life."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-itaru-made",
+    "name": "〜に至るまで",
+    "romaji": "ni itaru made",
+    "level": "N1",
+    "description": "に至るまで (ni itaru made) means 'even,' 'as far as,' or 'up to and including' — it extends the scope of a statement all the way to an unexpected or extreme endpoint, often used to emphasise comprehensiveness. When paired with から (〜から〜に至るまで), it creates a range expression: from X to even Y, covering everything in between. It attaches to nouns.\n\nThis pattern is formal and emphasises that no exception is made: 新入社員に至るまで全員 (all staff, including even new recruits). The nuance of に至るまで is that the endpoint mentioned is the most extreme or unexpected member of the set being described — the speaker is stressing the all-inclusive nature of the statement. It appears in formal announcements, written descriptions of comprehensive action, and literary prose.",
+    "usage": "Noun + に至るまで",
+    "notes": "Compare with 〜まで (up to/even) and 〜をはじめ〜まで (from...to, inclusive). に至るまで adds a stronger sense of 'reaching all the way to that far point' and emphasises that even the most distant or unexpected example is included. It is more formal than simple まで and is especially effective for highlighting the comprehensiveness of a range.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E8%87%B3%E3%82%8B%E3%81%BE%E3%81%A7"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼女は料理から裁縫に至るまで、家事の全般をこなしていた。",
+        "romaji": "Kanojo wa ryōri kara saihō ni itaru made, kaji no zenpan wo konashite ita.",
+        "english": "She handled all household chores, from cooking to sewing and everything in between."
+      },
+      {
+        "japanese": "社長は新入社員に至るまで、全従業員と直接面談を行った。",
+        "romaji": "Shachō wa shin'nyū shain ni itaru made, zen jūgyōin to chokusetsu mendan wo okonatta.",
+        "english": "The president held direct meetings with all employees, even down to the new recruits."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-shite",
+    "name": "〜にして",
+    "romaji": "ni shite",
+    "level": "N1",
+    "description": "にして (ni shite) is a versatile formal particle with several related meanings. First, it can mean 'at (a particular age or point in time)': 70歳にして初めてマラソンを完走した (completed a marathon for the first time at age 70). In this use it highlights the remarkableness of the time reference. Second, it can mean 'and at the same time' or 'being both,' indicating that a person or thing simultaneously holds two qualities or statuses: 偉大な科学者にして優れた詩人 (both a great scientist and an excellent poet).\n\nA third use expresses 'only through / by means of': この境地はこのような試練にしてはじめて達せられる (this state can only be reached through such a trial). All uses share a formal, literary character. The particle combines に (location/means marker) with the て-form of する, giving the phrase a sense of 'being at that point' or 'by that means.' It is found in formal prose, speeches, and literary writing.",
+    "usage": "Noun + にして",
+    "notes": "にして has multiple meanings depending on context: (1) 'at (age/time)' — highlighting a surprising temporal point; (2) 'and yet / being both' — dual attribution; (3) 'only by means of' — expressing what is necessary. All are formal. In casual speech, に (at age), かつ (and also), or にして alone would be paraphrased with simpler structures.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%97%E3%81%A6"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は70歳にして、初めてのマラソン完走を果たした。",
+        "romaji": "Kare wa nanajussai ni shite, hajimete no marason kanso wo hatashita.",
+        "english": "At the age of seventy, he achieved his first marathon completion."
+      },
+      {
+        "japanese": "その人物は偉大な科学者にして、優れた詩人でもあった。",
+        "romaji": "Sono jinbutsu wa idai na kagakusha ni shite, sugureta shijin demo atta.",
+        "english": "That individual was both a great scientist and an accomplished poet."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-soi-nai",
+    "name": "〜に相違ない",
+    "romaji": "ni sōi nai",
+    "level": "N1",
+    "description": "に相違ない (ni sōi nai) expresses a high degree of certainty — 'it must certainly be,' 'there is no doubt that,' or 'surely.' The speaker is making a confident assertion based on evidence, reasoning, or conviction. 相違 (sōi) means 'difference' or 'discrepancy,' so the literal sense is 'there is no discrepancy from [X],' meaning 'it is certainly X.' It attaches to nouns or plain-form predicates.\n\nThis pattern is formal and written in register. It is stronger than だろう or と思う and closer in certainty to に違いない, with which it is nearly synonymous. に相違ない is slightly more archaic and formal than に違いない, and is more commonly found in literary texts, formal documents, and written arguments. Both express the speaker's personal conviction that something is true, not an externally verified fact.",
+    "usage": "Verb / Adj (plain) + に相違ない",
+    "notes": "に相違ない is nearly synonymous with に違いない (must be, certainly). に相違ない is more archaic and formal — it is the older literary variant. Both are more confident than はずだ (should be) and more personal than でしょう. In contemporary Japanese, に違いない is more common in speech; に相違ない is more often found in writing.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E7%9B%B8%E9%81%95%E3%81%AA%E3%81%84"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "これほどの作品を描けるのは、彼に相違ない。",
+        "romaji": "Kore hodo no sakuhin wo egakeru no wa, kare ni sōi nai.",
+        "english": "The one who can paint a work of this caliber must certainly be him."
+      },
+      {
+        "japanese": "その情報は正確に相違ないが、公表するタイミングを慎重に選ぶべきだ。",
+        "romaji": "Sono jōhō wa seikaku ni sōi nai ga, kōhyō suru taimingu wo shinchō ni erabu beki da.",
+        "english": "That information is certainly accurate, but we should carefully choose the timing for its release."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-taeru",
+    "name": "〜にたえる・〜にたえない",
+    "romaji": "ni taeru / ni taenai",
+    "level": "N1",
+    "description": "にたえる (ni taeru) and にたえない (ni taenai) are two sides of a formal evaluative pattern. にたえる means 'worth doing' or 'able to withstand the standard of' — it asserts that something meets a sufficiently high quality to be worthy of the stated activity: 鑑賞にたえる (worth appreciating, of appreciable quality). The verb たえる (堪える) means 'to bear,' 'to withstand,' or 'to be equal to.' In にたえる, the sense is that the object can 'bear up under' the scrutiny of the action.\n\nにたえない, the negative form, means 'cannot bear to' or 'unbearable' in an emotional or aesthetic sense: 見るにたえない惨状 (a scene so devastating that one cannot bear to look). In both cases the pattern is formal and literary, appearing in critical writing, academic evaluation, and literary prose. It attaches to the dictionary form of verbs or to nouns directly.",
+    "usage": "Verb (dict.) / Noun + にたえる",
+    "notes": "The positive form (にたえる) is used in evaluative contexts: 'worth X-ing.' The negative form (にたえない) expresses unbearable emotional or aesthetic distress. Both are formal. Compare with 〜に値する (worthy of), which is slightly more common in academic writing for the positive meaning. にたえない is often more emotionally visceral than simply 〜できない.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%9F%E3%81%88%E3%82%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この論文は鑑賞にたえる完成度を持っている。",
+        "romaji": "Kono ronbun wa kanshō ni taeru kanseido wo motte iru.",
+        "english": "This thesis has a level of completeness worth appreciating."
+      },
+      {
+        "japanese": "現場の惨状は、見るにたえないほどひどいものだった。",
+        "romaji": "Genba no sanjō wa, miru ni taenai hodo hidoi mono datta.",
+        "english": "The devastation at the scene was so terrible that it was unbearable to look at."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-taru",
+    "name": "〜に足る",
+    "romaji": "ni taru",
+    "level": "N1",
+    "description": "に足る (ni taru) means 'worthy of,' 'sufficient to,' or 'deserving of' — it asserts that a person or thing meets the standard required for the verb or noun it modifies. The verb 足る (taru, classical/formal form of 足りる, to be sufficient/enough) here means 'to be adequate for the purpose of.' The construction therefore means 'to be sufficient for [doing/being X]': 信頼するに足る人物 (a person worthy of trust).\n\nIt attaches to the dictionary form of verbs or to nouns (Verb dict. / Noun + に足る + Noun) and is formal and literary in register. It is found in academic writing, formal evaluations, and literary prose. A related negative form, に足らない or 足りない, expresses that something falls short of merit: 取るに足らない問題 (a trivial matter not worth taking up).",
+    "usage": "Verb (dict.) / Noun + に足る",
+    "notes": "に足る is the more formal/literary equivalent of 〜に値する (worthy of) and 〜に相応しい (appropriate for, befitting). The fixed phrase 取るに足らない (trivial, not worth considering) is a very common set expression using the negative form. In contemporary writing, に値する is sometimes preferred as it feels slightly less archaic.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E8%B6%B3%E3%82%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は信頼するに足る人物だと、長い付き合いの中で確信した。",
+        "romaji": "Kare wa shinrai suru ni taru jinbutsu da to, nagai tsukiai no naka de kakushin shita.",
+        "english": "Through a long acquaintance, I became convinced that he is a person worthy of trust."
+      },
+      {
+        "japanese": "この研究は学術的に評価するに足る成果を上げている。",
+        "romaji": "Kono kenkyū wa gakujutsuteki ni hyōka suru ni taru seika wo agete iru.",
+        "english": "This research has produced results worthy of academic recognition."
+      }
+    ]
+  },
+  {
+    "id": "n1-ni-tsuke",
+    "name": "〜につけ",
+    "romaji": "ni tsuke",
+    "level": "N1",
+    "description": "につけ (ni tsuke) means 'whenever' or 'every time' — it describes a recurring trigger that consistently produces an emotional reaction or memory in the speaker. It attaches to the dictionary form or た-form of a verb and is used when a particular action or perception reliably evokes a feeling: この曲を聴くにつけ、故郷が思い出される (whenever I hear this song, it reminds me of my hometown).\n\nThe pattern has a reflective, nostalgic, or meditative quality and appears in formal written prose as well as in careful spoken Japanese. It is closely related to 〜たびに (every time) but has a stronger association with involuntary or emotional responses rather than purely behavioural recurrence. A special fixed usage is 良いにつけ悪いにつけ (whether good or bad / under any circumstances), which uses the pattern with い-adjective stems to express that something applies regardless of the quality.",
+    "usage": "Verb (dict. / ta) + につけ",
+    "notes": "Compare with 〜たびに (every time), which is more neutral and behavioural. につけ adds a nuance of emotional or reflective response — the trigger reliably evokes a feeling or memory. The fixed phrase 良いにつけ悪いにつけ (whether it goes well or badly) is worth memorising as a set expression with a different structural feel from the standard usage.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AB%E3%81%A4%E3%81%91"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この曲を聴くにつけ、故郷での幼い日々が思い出される。",
+        "romaji": "Kono kyoku wo kiku ni tsuke, furusato de no osanai hibi ga omoidasareru.",
+        "english": "Whenever I hear this song, memories of my childhood days in my hometown come back to me."
+      },
+      {
+        "japanese": "良いにつけ悪いにつけ、彼の行動はいつも周囲の話題になる。",
+        "romaji": "Yoi ni tsuke warui ni tsuke, kare no kōdō wa itsumo shūi no wadai ni naru.",
+        "english": "Whether good or bad, his actions always become a topic among those around him."
+      }
+    ]
+  },
+  {
+    "id": "n1-wa-oroka",
+    "name": "〜はおろか",
+    "romaji": "wa oroka",
+    "level": "N1",
+    "description": "はおろか (wa oroka) means 'let alone,' 'not to mention,' or 'far from' — it expresses that even an obvious or expected case does not apply, and therefore a more extreme case certainly does not (or does). The structure is: 'X はおろか, Y も [verb]' — where X is the obvious/less extreme case and Y is the more surprising or extreme one. Both are negated or both are positively affirmed together.\n\nThe word おろか (疎か) originally means 'negligent' or 'to neglect,' so the literal sense is 'putting X aside as too obvious to even mention.' It attaches to nouns (Noun + はおろか) and is formal in register — more literary than 〜はもちろん, which has a neutral or positive connotation. はおろか is more commonly used in negative contexts: 漢字はおろか、ひらがなも書けない (can't even write hiragana, let alone kanji).",
+    "usage": "Noun + はおろか、〜も",
+    "notes": "Compare with 〜はもちろん (not only...but also), which is neutral or positive. はおろか tends to appear in negative or extreme contexts where even the more basic/obvious case doesn't hold. A common mistake is reversing the order: X (less extreme, obvious) must come before はおろか, and Y (more extreme) must follow — not the other way around.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%AF%E3%81%8A%E3%82%8D%E3%81%8B"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼は漢字はおろか、ひらがなも書けないほど日本語が苦手だ。",
+        "romaji": "Kare wa kanji wa oroka, hiragana mo kakenai hodo nihongo ga nigate da.",
+        "english": "He is so poor at Japanese that he cannot write even hiragana, let alone kanji."
+      },
+      {
+        "japanese": "その事故で車ははおろか、荷物もすべて失ってしまった。",
+        "romaji": "Sono jiko de kuruma wa oroka, nimotsu mo subete ushinatte shimatta.",
+        "english": "In that accident, he lost all his luggage, let alone his car."
+      }
+    ]
+  },
+  {
+    "id": "n1-beku",
+    "name": "〜べく",
+    "romaji": "beku",
+    "level": "N1",
+    "description": "べく (beku) is a formal, literary expression of purpose or aim meaning 'in order to' or 'so as to.' It derives from the classical auxiliary べし, the conjunctive (adverbial) form of which is べく. In modern Japanese, べく functions as a formal equivalent of 〜ために or 〜ように when expressing the purpose behind an action. It attaches to the dictionary form of a verb (する → すべく, being the most common), and the action following べく is typically a deliberate, purposeful effort.\n\nべく is primarily found in formal written Japanese — newspaper articles, essays, official announcements, and literary prose. It is never used in casual conversation. The irregular form of する is すべく (not するべく in classical usage, though するべく appears in some contemporary formal writing). The tone it creates is one of serious, goal-directed resolve.",
+    "usage": "Verb (dict.) + べく",
+    "notes": "The everyday equivalent is 〜ために (in order to) or 〜ように. べく adds formal, almost solemn purposefulness. The irregular form is する → すべく (from classical Japanese). In contemporary formal writing both するべく and すべく appear, but すべく is the traditional form. Do not use べく in casual speech.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%B9%E3%81%8F"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "夢を実現すべく、彼女は毎日猛練習を続けた。",
+        "romaji": "Yume wo jitsugen su beku, kanojo wa mainichi mō renshū wo tsuzuketa.",
+        "english": "In order to realize her dream, she continued to train intensely every day."
+      },
+      {
+        "japanese": "問題を解決すべく、各部署の代表者が緊急会議に召集された。",
+        "romaji": "Mondai wo kaiketsu su beku, kaku busho no daihyōsha ga kinkyū kaigi ni shōshū sareta.",
+        "english": "Representatives from each department were convened for an emergency meeting in order to resolve the problem."
+      }
+    ]
+  },
+  {
+    "id": "n1-made-mo-nai",
+    "name": "〜までもない",
+    "romaji": "made mo nai",
+    "level": "N1",
+    "description": "までもない (made mo nai) means 'there is no need to' or 'it is unnecessary to go so far as to' — it indicates that the action described is excessive or redundant given the circumstances. The situation is so clear or simple that the action in question need not be performed. It attaches to the dictionary form of a verb: 言うまでもない (it goes without saying / there's no need to even say it).\n\nThe most fixed and common expression is 言うまでもなく / 言うまでもない, which functions almost as a set phrase meaning 'needless to say' or 'it goes without saying.' The pattern is semi-formal and found in both written and spoken Japanese. It differs from 〜なくてもいい (don't have to) in that までもない implies not merely that the action is not required, but that it would be overkill or redundant to perform it.",
+    "usage": "Verb (dict.) + までもない",
+    "notes": "The most important set expression is 言うまでもない / 言うまでもなく (needless to say, it goes without saying). Compare with 〜なくてもいい (don't need to), which is neutral about the appropriateness of the action. までもない implies the action would be unnecessarily thorough or obvious — the situation makes it superfluous.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%81%BE%E3%81%A7%E3%82%82%E3%81%AA%E3%81%84"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "言うまでもなく、健康は何物にも代えがたい財産だ。",
+        "romaji": "Iu made mo naku, kenkō wa nani mono ni mo kaegatai zaisan da.",
+        "english": "It goes without saying that health is a treasure that cannot be replaced by anything."
+      },
+      {
+        "japanese": "この程度のことは、わざわざ専門家に相談するまでもない。",
+        "romaji": "Kono teido no koto wa, wazawaza senmonka ni sōdan suru made mo nai.",
+        "english": "For something of this level, there is no need to go out of your way to consult a specialist."
+      }
+    ]
+  },
+  {
+    "id": "n1-mo-saru-koto-nagara",
+    "name": "〜もさることながら",
+    "romaji": "mo saru koto nagara",
+    "level": "N1",
+    "description": "もさることながら (mo saru koto nagara) means 'not only X, but also Y (which is even more notable).' It acknowledges X as a given or expected quality and then highlights Y as additionally remarkable — often the more important or surprising point. The phrase さること derives from classical Japanese さる (that which is as it is / a given fact), and nagara adds the concessive/simultaneous nuance of 'while that is certainly true.' Together the pattern implies 'X is already obvious/notable, but what is more worth pointing out is Y.'\n\nIt attaches to nouns (Noun + もさることながら) and is formal and literary in register. It is most naturally used when complementing or profiling a person, product, or institution: 外見もさることながら、その知性が印象的だ (her looks are notable of course, but what is even more impressive is her intellect). The pattern is excellent for structured, nuanced written praise or analysis.",
+    "usage": "Noun + もさることながら",
+    "notes": "Compare with 〜はもちろん〜も (not only...but also), which is more neutral and common. もさることながら adds the nuance that X is 'given' or 'well-known,' and the speaker is pivoting to something they find even more noteworthy or impressive. The following clause (Y) is the main point the speaker wants to make.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%82%82%E3%81%95%E3%82%8B%E3%81%93%E3%81%A8%E3%81%AA%E3%81%8C%E3%82%89"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼女は外見もさることながら、その知性と人柄が多くの人を魅了している。",
+        "romaji": "Kanojo wa gaiken mo saru koto nagara, sono chisei to hitogara ga ōku no hito wo miryō shite iru.",
+        "english": "Not only her appearance, but also her intellect and character captivate many people."
+      },
+      {
+        "japanese": "この店は料理もさることながら、丁寧なサービスが評判を呼んでいる。",
+        "romaji": "Kono mise wa ryōri mo saru koto nagara, teinei na sābisu ga hyōban wo yonde iru.",
+        "english": "Not only the food at this restaurant, but also its attentive service has earned it a great reputation."
+      }
+    ]
+  },
+  {
+    "id": "n1-ya-ina-ya",
+    "name": "〜やいなや",
+    "romaji": "ya ina ya",
+    "level": "N1",
+    "description": "やいなや (ya ina ya) means 'the moment that' or 'no sooner than' — it describes two events in immediate succession, where the second happens virtually at the same instant as the first completes. It attaches to the dictionary (plain present) form of a verb and is exclusively a literary/written expression not found in casual speech.\n\nThe subject of the two clauses can differ, and the second clause typically describes a sudden, often involuntary action. Compare with とたん(に), which is similar but slightly less emphatic about instantaneity. やいなや is one of the most 'literary' patterns at N1 — it conveys sharp, vivid immediacy in writing. The construction literally combines ya (classical 'or'), ina (no), and ya again, creating a rhetorical 'is it done or not done? — it is done' structure that underscores the absolute immediacy of the transition.",
+    "usage": "Verb (dict.) + やいなや",
+    "notes": "やいなや is one of the most literary patterns at N1. In writing it conveys sharp, vivid immediacy. In conversation, use とたんに or 〜たとたん instead. The second clause cannot end with volitional or command forms — the following event must be spontaneous or involuntary. Compare with なり (another literary immediacy pattern), which is slightly different in feel and attachment.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%82%84%E3%81%84%E3%81%AA%E3%82%84"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "ベルが鳴るやいなや、生徒たちは一斉に教室を飛び出した。",
+        "romaji": "Beru ga naru ya ina ya, seito-tachi wa issei ni kyōshitsu wo tobidashita.",
+        "english": "No sooner had the bell rung than the students all rushed out of the classroom at once."
+      },
+      {
+        "japanese": "チケットが発売されるやいなや、数分で完売してしまった。",
+        "romaji": "Chiketto ga hatsubai sareru ya ina ya, sūfun de kanbai shite shimatta.",
+        "english": "The moment the tickets went on sale, they sold out within minutes."
+      }
+    ]
+  },
+  {
+    "id": "n1-wo-oite",
+    "name": "〜をおいて",
+    "romaji": "wo oite",
+    "level": "N1",
+    "description": "をおいて (wo oite) means 'other than,' 'aside from,' or 'except for' — and is almost always paired with ほかに〜ない or a similar negative to create an exclusivity statement: 'there is no one / nothing other than X.' It asserts that X is uniquely qualified, making all other options or candidates irrelevant. The verb おく (to set aside, to leave) in its te-form gives the sense of 'setting everything else aside,' leaving only X as the valid option.\n\nIt attaches to nouns (Noun + をおいて(ほかに)〜ない) and is formal in register. It appears in literary prose, formal speeches, and strong written assertions. The construction is a powerful way of expressing that someone or something is irreplaceable or uniquely suited: この役を演じられるのは彼をおいてほかにいない (there is no one other than him who can play this role).",
+    "usage": "Noun + をおいて(ほかに)〜ない",
+    "notes": "をおいて requires a negative in the second clause to complete its meaning — it does not work without the negation. Compare with 〜以外に (other than, except for), which is a neutral factual statement. をおいて carries the added rhetorical force of 'setting all others aside' — it implies not just that others are excluded, but that they are definitively inferior or inapplicable.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%82%92%E3%81%8A%E3%81%84%E3%81%A6"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "この難役を演じられるのは、彼をおいて他にいない。",
+        "romaji": "Kono nan'yaku wo enjirarereru no wa, kare wo oite hoka ni inai.",
+        "english": "There is no one other than him who can play this difficult role."
+      },
+      {
+        "japanese": "今この問題を解決できるのは、あなたをおいてほかにない。",
+        "romaji": "Ima kono mondai wo kaiketsu dekiru no wa, anata wo oite hoka ni nai.",
+        "english": "There is no one other than you who can solve this problem right now."
+      }
+    ]
+  },
+  {
+    "id": "n1-wo-kagiri-ni",
+    "name": "〜をかぎりに",
+    "romaji": "wo kagiri ni",
+    "level": "N1",
+    "description": "をかぎりに (wo kagiri ni) means 'as of,' 'from...onward,' or 'with X as the final/cutoff point' — it marks a specific time or occasion as the definitive endpoint or transition point after which something changes. It is used when announcing that something will end or change decisively from a particular date or event: 今月をかぎりに辞職します (I will resign as of the end of this month).\n\nIt attaches to time nouns (Noun + をかぎりに) and is formal, appearing in official announcements, formal speeches, and written declarations. The word かぎり (限り) means 'limit' or 'end,' so the pattern literally means 'with X as the limit.' Unlike 〜を境に (marking a turning point), をかぎりに specifically implies finality — something concludes or a new commitment begins from that point.",
+    "usage": "Noun (time) + をかぎりに",
+    "notes": "Compare with 〜を境に (from the turning point of), which marks a before-and-after shift without implying finality. をかぎりに implies a definitive end or commitment from that moment forward. It is almost exclusively used with time expressions (今日、今月、この公演、etc.) and is formal — appropriate for official announcements but not casual conversation.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%82%92%E3%81%8B%E3%81%8E%E3%82%8A%E3%81%AB"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "今月をかぎりに、この職を辞することにいたしました。",
+        "romaji": "Kongetsu wo kagiri ni, kono shoku wo jisuru koto ni itashimashita.",
+        "english": "I have decided to resign from this position as of the end of this month."
+      },
+      {
+        "japanese": "本日の公演をかぎりに、長年続けてきたバンド活動に幕を下ろします。",
+        "romaji": "Honjitsu no kōen wo kagiri ni, naganen tsuzukete kita bando katsudō ni maku wo oroshimasu.",
+        "english": "With today's performance, we will bring down the curtain on our long-running band activities."
+      }
+    ]
+  },
+  {
+    "id": "n1-wo-mono-to-mo-sezu",
+    "name": "〜をものともせず",
+    "romaji": "wo mono to mo sezu",
+    "level": "N1",
+    "description": "をものともせず (wo mono to mo sezu) means 'undeterred by,' 'in spite of,' or 'without being troubled by' — it expresses that a person faces a serious obstacle, hardship, or danger and does not allow it to stop them, treating it as insignificant. The nuance is one of remarkable resilience or bravery: the obstacle that would stop most people is dismissed as of no consequence to the subject.\n\nThe expression combines もの (thing, matter) + とも (even) + せず (the classical negative form of する), literally meaning 'without even making it a thing / without treating it as anything.' It attaches to nouns (Noun + をものともせず(に)) and is formal and literary in register. It appears in biographical writing, news reporting of extraordinary acts, and literary prose. The emphasis is always on the exceptional courage or determination of the person facing the challenge.",
+    "usage": "Noun + をものともせず(に)",
+    "notes": "をものともせず describes a person actively dismissing or overcoming an obstacle through strength of will or character — it cannot be used to describe simply ignoring something trivial. Compare with 〜にかかわらず (regardless of) or 〜をよそに (indifferent to), both of which have different nuances. をものともせず specifically implies courageous disregard for danger or hardship.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%82%92%E3%82%82%E3%81%AE%E3%81%A8%E3%82%82%E3%81%9B%E3%81%9A"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "彼女は激しい雨をものともせず、試合を最後まで戦い抜いた。",
+        "romaji": "Kanojo wa hageshii ame wo mono to mo sezu, shiai wo saigo made tatakainuita.",
+        "english": "Undeterred by the torrential rain, she fought through the match to the very end."
+      },
+      {
+        "japanese": "その探検家は極寒の吹雪をものともせず、頂上を目指して登り続けた。",
+        "romaji": "Sono tankenka wa gokkan no fubuki wo mono to mo sezu, chōjō wo mezashite nobori tsuzuketa.",
+        "english": "The explorer, undeterred by the freezing blizzard, continued to climb toward the summit."
+      }
+    ]
+  },
+  {
+    "id": "n1-wo-yoso-ni",
+    "name": "〜をよそに",
+    "romaji": "wo yoso ni",
+    "level": "N1",
+    "description": "をよそに (wo yoso ni) means 'ignoring,' 'indifferent to,' or 'heedless of' — it describes a situation where a person acts without regard to others' concerns, expectations, or feelings about them. The word よそ (余所) means 'another place' or 'something external to oneself,' so をよそに literally means 'treating [others' concerns] as something happening elsewhere / not one's business.' The overall nuance can be neutral (simply indifferent) or carry a critical undertone (recklessly ignoring legitimate concerns).\n\nIt attaches to nouns (Noun + をよそに) and is formal in register. It appears in literary prose, formal written commentary, and newspaper reporting. The subject typically acts contrary to what others expected or hoped for: 親の反対をよそに旅立った (set off ignoring her parents' opposition). Unlike をものともせず (courageous dismissal of danger), をよそに tends to describe indifference to social or emotional concerns rather than physical hardship.",
+    "usage": "Noun + をよそに",
+    "notes": "Compare with 〜をものともせず (undeterred by physical/external hardship) and 〜にかかわらず (regardless of). をよそに specifically describes indifference to other people's concerns, expectations, or feelings — it is about social or emotional disregard. It can carry a slightly critical tone depending on context (recklessly ignoring others) or simply describe independence and self-determination.",
+    "links": [
+      {
+        "label": "Bunpro",
+        "url": "https://bunpro.jp/grammar_points/%E3%82%92%E3%82%88%E3%81%9D%E3%81%AB"
+      }
+    ],
+    "examples": [
+      {
+        "japanese": "周囲の心配をよそに、彼は単独で世界一周の航海に出発した。",
+        "romaji": "Shūi no shinpai wo yoso ni, kare wa tandoku de sekai isshū no kōkai ni shuppatsu shita.",
+        "english": "Indifferent to the worries of those around him, he set off on a solo voyage around the world."
+      },
+      {
+        "japanese": "両親の反対をよそに、彼女は夢を追いかけて海外へ旅立った。",
+        "romaji": "Ryōshin no hantai wo yoso ni, kanojo wa yume wo oikakete kaigai e tabidatta.",
+        "english": "Ignoring her parents' opposition, she set off overseas to pursue her dream."
+      }
+    ]
+  }
+]
