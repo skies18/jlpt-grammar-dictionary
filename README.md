@@ -29,3 +29,4 @@ Open the site on desktop or iOS Safari. To add more grammar entries, edit `src/d
 Notes on iOS compatibility
 
 - This is a responsive web app and includes a `manifest.json`. iOS supports adding web apps to the home screen via Safari's Share > Add to Home Screen. Some PWA features (service workers, full installability) are limited on iOS Safari.
+"# jlpt-grammar-dictionary" 
