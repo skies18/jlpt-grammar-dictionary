@@ -1,32 +1,68 @@
 # JLPT Grammar Dictionary
 
-Minimal Vite + React TypeScript Progressive Web App (PWA) that lists Japanese grammar points by JLPT level and links to external resources (Imabi, Bunpro, etc.).
+An interactive Japanese grammar reference and quiz app covering all JLPT levels (N5–N1) with 266 grammar points.
 
-Quick start
+## Features
+
+- **Grammar reference** — browse all 266 grammar points across N5–N1, with descriptions, usage patterns, examples, and links to Bunpro
+- **Search & filter** — search by name, reading, meaning, or usage; filter by JLPT level
+- **Fill-in-the-blank quiz** — multiple choice practice with difficult distractors drawn from the same JLPT level
+- **Proficiency tracking** — 7-level system (Unseen → Struggling → Novice → Familiar → Practiced → Confident → Mastered) persisted in localStorage
+- **Word hover tooltips** — hover any Japanese word in quiz sentences to see its reading, part of speech, and English definitions (via Jisho API)
+- **Manual level adjustment** — raise or lower your proficiency level on any grammar point from its detail page
+- **"I don't know" button** — skip a quiz question and mark it wrong without guessing
+
+## Tech Stack
+
+- React 18 + TypeScript
+- Vite 5
+- React Router DOM v6
+- Jisho API (proxied through Vite dev server to avoid CORS)
+- localStorage for proficiency persistence
+
+## Getting Started
 
 ```bash
-cd jlpt-grammar-dictionary
 npm install
 npm run dev
 ```
 
-Importing the full grammar list from Japbase
+Open [http://localhost:5173](http://localhost:5173) in your browser.
 
-This repo includes a helper script that scrapes headings and anchors from Japbase and writes a JSON list to `src/data/grammar_imported.json`.
+## Data
 
-Run:
+Grammar data lives in `src/data/grammar.json`. Each entry follows this schema:
 
-```bash
-npm install
-node scripts/import_japbase.js
+```json
+{
+  "id": "n3-example",
+  "name": "〜example",
+  "romaji": "example",
+  "level": "N3",
+  "description": "Full description...",
+  "usage": "Verb (dict.) + example",
+  "links": [
+    { "label": "Bunpro", "url": "https://bunpro.jp/grammar_points/..." }
+  ],
+  "examples": [
+    { "japanese": "...", "romaji": "...", "english": "..." }
+  ],
+  "notes": "Optional extra notes."
+}
 ```
 
-The script runs locally (on your machine), fetches `https://japbase.neocities.org/full_night`, and writes the results. It also creates Bunpro and Imabi (Google site-search) links for each entry as helper links.
+## Proficiency System
 
+Scores are calculated as `max(0, correct × 2 − incorrect)` and mapped to levels:
 
-Open the site on desktop or iOS Safari. To add more grammar entries, edit `src/data/grammar.json` and follow the existing schema.
+| Level | Name | Score |
+|---|---|---|
+| 0 | Unseen | not yet attempted |
+| 1 | Struggling | seen but never answered correctly |
+| 2 | Novice | score ≥ 1 |
+| 3 | Familiar | score ≥ 3 |
+| 4 | Practiced | score ≥ 6 |
+| 5 | Confident | score ≥ 10 |
+| 6 | Mastered | score ≥ 15 |
 
-Notes on iOS compatibility
-
-- This is a responsive web app and includes a `manifest.json`. iOS supports adding web apps to the home screen via Safari's Share > Add to Home Screen. Some PWA features (service workers, full installability) are limited on iOS Safari.
-"# jlpt-grammar-dictionary" 
+Progress is saved automatically in `localStorage` under the key `jlpt_proficiency`.
