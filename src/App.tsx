@@ -100,6 +100,7 @@ function GrammarList({ entries }: { entries: Entry[] }) {
 
       <main className="main">
         {/* Stats */}
+
         <div className="stats">
           {filtered.length === 0
             ? 'No results'
@@ -132,6 +133,9 @@ function GrammarList({ entries }: { entries: Entry[] }) {
               </div>
             )}
       </main>
+      <footer className="site-footer">
+        <a href="mailto:001sliu@gmail.com">001sliu@gmail.com</a>
+      </footer>
     </div>
   )
 }

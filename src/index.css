@@ -1363,6 +1363,23 @@ a { color: inherit; }
   font-style: italic;
 }
 
+/* ── Footer ─────────────────────────────────────────── */
+.site-footer {
+  text-align: center;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  border-top: 1px solid rgba(255,255,255,0.07);
+  font-size: 0.85rem;
+  color: rgba(255,255,255,0.3);
+}
+.site-footer a {
+  color: rgba(255,255,255,0.4);
+  text-decoration: none;
+}
+.site-footer a:hover {
+  color: rgba(255,255,255,0.7);
+}
+
 /* ── Responsive ─────────────────────────────────────── */
 @media (max-width: 600px) {
   .header-title h1 { font-size: 1.15rem; }
